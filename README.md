@@ -1,5 +1,3 @@
-# NX React Monorepo Tutorial
+# NX Release GitHub Release
 
-- This repo is based off an Nx React Monorepo tutorial.
-- It was originally used to learn more about how Nx works.
-- It was then used as a testing ground for using `nx release`, the release tool that Nx provides.
+- This repo is a proof of concept of using nx release version to update versions and GH CLI to create GH releases.
